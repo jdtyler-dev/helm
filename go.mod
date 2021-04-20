@@ -24,7 +24,7 @@ require (
 	github.com/jessevdk/go-flags v1.4.0 // indirect
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/lib/pq v1.8.0
-	github.com/mattn/go-shellwords v1.0.10
+	github.com/mattn/go-shellwords v1.0.11
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.1
