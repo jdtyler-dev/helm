@@ -11,7 +11,7 @@ require (
 	github.com/Masterminds/squirrel v1.5.0
 	github.com/Masterminds/vcs v1.13.1
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
-	github.com/containerd/containerd v1.3.4
+	github.com/containerd/containerd v1.5.16
 	github.com/cyphar/filepath-securejoin v0.2.3
 	github.com/deislabs/oras v0.8.1
 	github.com/docker/distribution v2.7.1+incompatible
@@ -26,15 +26,15 @@ require (
 	github.com/mattn/go-shellwords v1.0.12
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/rubenv/sql-migrate v0.0.0-20200616145509-8d140a17f351
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/xeipuuv/gojsonschema v1.2.0
-	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
+	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	k8s.io/api v0.22.1
 	k8s.io/apiextensions-apiserver v0.21.0
 	k8s.io/apimachinery v0.22.1
